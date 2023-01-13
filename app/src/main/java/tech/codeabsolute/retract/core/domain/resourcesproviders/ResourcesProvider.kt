@@ -1,0 +1,3 @@
+package tech.codeabsolute.retract.core.domain.resourcesproviders
+
+interface ResourcesProvider

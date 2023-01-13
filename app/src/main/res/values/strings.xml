@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Retract</string>
+
+    <string name="proximity_service_notification_channel_name">Proximity Service</string>
+    <string name="proximity_service_notification_channel_description">Proximity Service description.</string>
+    <string name="proximity_service_notification_title">Proximity Service</string>
+    <string name="proximity_service_notification_text">Proximity service is running.</string>
 </resources>
